@@ -2,7 +2,7 @@
 # in the templates available like {{ site.myvariable }}.
 title: 化工仪表自动化
 email: zhaotq@jlu.edu.cn
-brand: 赵天琦
+brand: 化工仪表自动化
 headline: 吉林大学化学学院
 description: > # this means to ignore newlines until "baseurl:"
   New Site
