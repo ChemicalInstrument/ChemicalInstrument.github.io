@@ -8,7 +8,7 @@ description: > # this means to ignore newlines until "baseurl:"
   New Site
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://chemicalinstrument.github.io/" # the base hostname & protocol for your site
-copyright: 2016 Whatever Company, Inc. All Rights Reserved.
+copyright: 吉林大学化学学院化学工程与工艺系
 
 # Build settings
 markdown: kramdown
